@@ -38,7 +38,6 @@ public:
             }
             step++;
         }
-        cout << start << endl;
         return -1;
     }
 };
