@@ -13,7 +13,6 @@ public:
             }
             else{
                 ans = max(ans, (int)q.size() + 1);
-                cout << ans << endl;
             }
             q.push(nums[i]);
         }
